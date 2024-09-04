@@ -54,7 +54,16 @@
 ### 스택의 활용 예는 웹브라우저의 뒤로/앞으로 버튼이 있다.
 ### 큐의 활용 예는 인쇄작업 대기목록이 있다.
 
+## Iterator, ListIterator, Enumeration
+### Iterator, ListIterator, Enumeration은 모두 컬렉션에 저장된 요소를 접근하는데 사용 되는 인터페이스이다.
+#### Iterator
+#### 컬렉션 프레임웍에서는 컬렉션에 저장된 각 요소에 접근하는 기능을 가진 Iterator인터페이스를 정의하고 있다.
+#### ListIterator와 Enumeration
+#### Enumeration은 Iterator의 구버전이다.
+#### ListIterator는 Iterator에 양방향 조회기능추가(List를 구현한 경우에만 사용가능)
 
+## Arrays
+### Array클래스에는 배열을 다루는데 유용한 메서드가 정의되어 있다.
 
 
 
