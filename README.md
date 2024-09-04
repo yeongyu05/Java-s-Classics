@@ -64,16 +64,8 @@
 
 ## Arrays
 ### Array클래스에는 배열을 다루는데 유용한 메서드가 정의되어 있다.
-
-
-
-
-
-
-
-
-
-
-
-
-
+### 배열의 복사 - copyOf(), copyOfRange()
+### 배열 채우기 - fill(), setAll()
+### 배열 정렬과 검색 - sort(), binarySearch()
+### 문자열의 비교와 출력 - equals(), toString()
+### 배열을 List로 변환 - asList(Object... a)
